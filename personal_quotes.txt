@@ -1,1 +1,3 @@
 This is a personal quote - me
+
+This is another personal quote - also me
